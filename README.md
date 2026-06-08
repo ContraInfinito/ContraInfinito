@@ -119,6 +119,6 @@ location   ->  10.3157 N, 84.5157 W . San Carlos, CR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C00&height=80&section=footer" />
 
-all projects open source &nbsp;·&nbsp; [contrainfinity.github.io](https://contrainfinity.github.io)
+all projects open source &nbsp;·&nbsp; [contrainfinito.github.io](https://contrainfinito.github.io)
 
 </div>
