@@ -13,10 +13,15 @@
 
 ## About
 
-Software engineer finishing a B.Sc. in Computer Engineering at TEC Costa Rica (Jun 2026). Specializes in Python, cloud infrastructure, and XR development. Leads end-to-end system design from architecture through delivery — direct client engagement in English on international projects.
+Python engineer with hands-on machine learning and data pipeline experience — all projects deployed and open source on GitHub.
 
-Hands-on AWS experience: built and ran CIS benchmark IAM/S3 security tooling with boto3 against a live account, found real misconfigurations, fixed them, re-scan confirmed zero findings. Published open-source tooling to PyPI. Practitioner of AI-assisted development through structured agent orchestration and custom skill systems.
+Recent work includes an end-to-end MLOps pipeline (RandomForest, 5-fold cross-validation, Dockerized FastAPI) where I caught and resolved a data leakage bug that was producing a suspiciously perfect R² of 0.9997 — investigated, found the cause, corrected it to an honest 0.80. Also built and deployed a Python CLI security auditor that ran against a live AWS account and identified 4 real IAM misconfigurations.
 
+Currently working as a Simulation Software Engineer for PimaSens R&D (MacEwan University, Canada) on an international XR training project — full solution architecture, direct client engagement in English — and as an AI Systems Coding Specialist at Meridial evaluating production AI voice agents: professionally trained to know when a model is wrong and explain it clearly.
+
+Practitioner of AI-assisted development through structured agent orchestration, custom skill systems, and multi-model workflows. Published open-source tooling to PyPI (Praxis — IBM Bob Hackathon 2026).
+
+B.Sc. Computer Engineering, TEC Costa Rica (Jun 2026).
 ---
 
 ## △ Projects
