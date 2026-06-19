@@ -26,6 +26,18 @@ B.Sc. Computer Engineering, TEC Costa Rica (Jun 2026).
 
 ## △ Projects
 
+### △ 4807m &nbsp; Sentinel Band &nbsp; <sub>Band of Agents Hackathon 2026 · Track 3</sub>
+![Python](https://img.shields.io/badge/Python-FF5C00?style=flat-square&logo=python&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/multi--agent-FF5C00?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF5C00?style=flat-square&logo=amazonaws&logoColor=white)
+![Band](https://img.shields.io/badge/Band-SDK-333?style=flat-square)
+![tests](https://img.shields.io/badge/tests-35_passing-1F7A44?style=flat-square)
+
+Zero-trust, multi-agent system that automatically remediates AWS CIS-benchmark violations — **safely**. Four agents coordinate in one Band room over a deterministic pure-Python safety layer: Auditor and Verifier are read-only, the Scribe has no cloud access, and only Remediation can write — and only for low-risk, reversible fixes. **Four independent gates** must agree before any AWS write, every lookup fails closed, and a planted **prompt-injection produces zero actions**. Remove every LLM from the diagram and the safety still holds — it's backed by 35 tests, not prompts.
+
+[![source](https://img.shields.io/badge/source-sentinel--band-333?style=flat-square&logo=github)](https://github.com/ContraInfinito/sentinel-band)
+[![demo](https://img.shields.io/badge/narrated_demo-video-FF5C00?style=flat-square&labelColor=1A1A18)](https://github.com/ContraInfinito/sentinel-band/blob/main/docs/Sentinel_Band_narrated.mp4)
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -114,6 +126,7 @@ grad       ->  Jun 2026 . TEC Costa Rica
 english    ->  C1 (advanced / professional working)
 pypi       ->  published  (pip install praxis-bob)
 aws        ->  live scan confirmed . zero findings
+band       ->  4 agents live . zero-trust AWS remediation
 xr         ->  active . Meta Quest . PimaSens R&D
 location   ->  10.3157 N, 84.5157 W . San Carlos, CR
 ```
